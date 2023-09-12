@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.357">
+    <testcase classname="Assessment Test Execution" name="Q1 : Add items to cart and if any items fails print the name" time="0.041">
+        <system-out><![CDATA[Given user enters "problem user" username...................................passed
+When user enters the password...............................................passed
+And user clicks on login button.............................................passed
+And add items to the cart...................................................passed
+Then user logouts from application..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Assessment Test Execution" name="Q2 : Sort the list and verify the list sorted correctly" time="0.003">
+        <system-out><![CDATA[Given user enters "standard user" username..................................passed
+When user enters the password...............................................passed
+And user clicks on login button.............................................passed
+And select "Name (A to Z)" as sorting.......................................passed
+And verify the product list.................................................passed
+Then user logouts from application..........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
