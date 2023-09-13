@@ -34,7 +34,7 @@ Behaviour Driven Development test automaton framework for assessment
 * assessment.feature (Path: assessment_automation_web/src/test/java/features/assessment.feature)
   * Scenario 01: Add items to cart and if any items fails print the names
   * Scenario 02: Sort the list and verify the list sorted correctly
-    * currently sort value is set as "Name (A to Z)" can set any value as "Name (Z to A) | Price (low to high) | Price (high to low)"
+    * currently sort value is set as "Name (Z to A)" can set any value as "Name (A to Z) | Price (low to high) | Price (high to low)"
 
 
 ### How to Execute:

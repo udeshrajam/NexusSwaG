@@ -12,7 +12,7 @@ Feature: Assessment Test Execution
     Given user enters "standard user" username
     When user enters the password
     And user clicks on login button
-    And select "Name (A to Z)" as sorting
+    And select "Name (Z to A)" as sorting
     And verify the product list
     Then user logouts from application
 
