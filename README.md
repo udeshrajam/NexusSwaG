@@ -15,6 +15,7 @@ Behaviour Driven Development test automaton framework for assessment
 
 ### Framework Structure:
 * Config.properties (Path: assessment_automation_web/src/main/resources/config.properties)
+    * headless mode - true or false (current its false)
     * Browser - firefox or chrome
     * Url
     * Type of Users (problem_user or standard_user)
